@@ -4,3 +4,4 @@ numpy
 plotly
 requests
 python-binance
+streamlit-autorefresh
